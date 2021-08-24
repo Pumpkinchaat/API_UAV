@@ -1,0 +1,66 @@
+[
+    {
+        "question" : "Keeping your drone within your visual line-of-sight means",
+        "a" : "Seeing it with binoculars",
+        "b" : "Seeing it with your own, unaided eyesight",
+        "c" : "Seeing it via your drone’s on-board camera",
+        "d" : "Seeing it with a telescope",
+        "correct" : "b"
+    },
+    {
+        "question" : "You must keep your drone 30 metres away from",
+        "a" : "Only people you don’t know, friends and family are allowed",
+        "b" : "Everyone. Only those involved in the direct operation of the drone are allowed within 30 metres",
+        "c" : "Only from people you haven’t asked permission to fly close to",
+        "d" : "Only people who have seen the drone",
+        "correct" : "b"
+    },
+    {
+        "question" : "What is the maximum height above ground level that you can fly your drone?",
+        "a" : "30 metres",
+        "b" : "300 metres",
+        "c" : "120 metres",
+        "d" : "150 metres",
+        "correct" : "c"
+    },
+    {
+        "question" : "How many drones can you fly at a time?",
+        "a" : "One",
+        "b" : "As many as you want",
+        "c" : "Ten",
+        "d" : "Three",
+        "correct" : "a"
+    },
+    {
+        "question" : "How many drones can you fly at a time?",
+        "a" : "Providing you are more than 30 metres above them",
+        "b" : "Providing they are all wearing hardhats",
+        "c" : "If you gained their permission",
+        "d" : "Never. You can’t fly over people regardless of height",
+        "correct" : "d"
+    },
+    {
+        "question" : "Flying your drone in Sydney Harbour is",
+        "a" : "Allowed",
+        "b" : "Allowed only during the day",
+        "c" : "Allowed only during the night",
+        "d" : "Never allowed, it is a restricted area",
+        "correct" : "d"
+    },
+    {
+        "question" : "Recreational drone operators can fly within 5.5km of a major airport (with a control tower)",
+        "a" : "In between flights or when the airport is not in use",
+        "b" : "Providing the drone isn’t within the approach and departure paths",
+        "c" : "Only at night",
+        "d" : "If their drone weighs 250 grams or less and the drone isn’t within the approach and departure paths",
+        "correct" : "d"
+    },
+    {
+        "question" : "Before every flight, you should",
+        "a" : "Check the weather",
+        "b" : "Ensure your drone’s battery is charged",
+        "c" : "Check the propellers are securely fastened",
+        "d" : "All of the above",
+        "correct" : "d"
+    }
+]
