@@ -4,6 +4,10 @@ const data = require("./data.json");
 const PORT = 3456;
 
 app.get("/", (req, res) => {
+  res.send("Hello Wordl");
+});
+
+app.get("/api", (req, res) => {
   const { headers, method, query, url } = req;
   const responseBody = { headers, method, query, url, data };
   res.json(responseBody);
