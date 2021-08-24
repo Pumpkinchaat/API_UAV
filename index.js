@@ -1,10 +1,10 @@
 const express = require("express");
 const app = express();
 const data = require("./data.json");
-const PORT = 3456;
+const PORT = process.env.PORT || 3000;
 
 app.get("/", (req, res) => {
-  res.send("Hello Wordl");
+  res.send("<h1>This the API homepage. Use /api to get JSON data</h1>");
 });
 
 app.get("/api", (req, res) => {
